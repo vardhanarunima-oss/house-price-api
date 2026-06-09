@@ -2,6 +2,9 @@
 
 A machine learning API that predicts California house prices based on housing features.
 
+## 🌐 Live Demo
+[Try the API](https://house-price-api-0fke.onrender.com/docs)
+
 ## 🔧 Tech Stack
 - Python
 - Scikit-learn (Random Forest Regressor)
